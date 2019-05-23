@@ -1,9 +1,9 @@
 def division(num1=42, num2=7)
-  return 
+  return num1/num2
 end
 
 def assign_variable(value)
-  
+   return 
 end
 
 def argue
