@@ -18,10 +18,10 @@ def return_a_value (5)
   return return_a_value
 end
 
-def last_evaluated_value
-
+def last_evaluated_value ("Expert")
+  return last_evaluated_value
 end
 
-def pizza_party
-
+def pizza_party ("Cheese")
+  return pizza_party
 end
