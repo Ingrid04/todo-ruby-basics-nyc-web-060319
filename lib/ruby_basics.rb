@@ -11,15 +11,15 @@ def argue (phrase="I'm right and you are wrong!")
 end
 
 def greeting ( greeting = "Hi there, ", name = "Bobby!")
-  return #{greeting} #{name}
+  return "#{greeting} #{name}"
 end
 
 def return_a_value (value="Nice")
   return value
 end
 
-def last_evaluated_value (value2="Expert")
-  return value2
+def last_evaluated_value (phrase="Expert")
+  return phrase
 end
 
 def pizza_party (like="Cheese")
