@@ -11,7 +11,7 @@ def argue (phrase="I'm right and you are wrong!")
 end
 
 def greeting (greeting, name)
-
+learn
 end
 
 def return_a_value (value="Nice")
